@@ -12,7 +12,7 @@ A weather API, provided by [https://www.visualcrossing.com](https://www.visualcr
 
 2. Run the [main](https://github.com/DaBaap/Weather-Web-App/blob/main/weather_app/main.py) script.
 3. Select any 2 cites and click fetch button to fetch 2 weeks past data.
-4. The heatmap is already shown a csv file in [data](https://github.com/DaBaap/Weather-Web-App/tree/main/weather_app/data) folder.
+4. The heatmap is already shown using a csv file in [data](https://github.com/DaBaap/Weather-Web-App/tree/main/weather_app/data) folder.
 
 ## Limitations
 For heatmap only cities 
