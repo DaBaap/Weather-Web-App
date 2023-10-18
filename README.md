@@ -17,4 +17,5 @@ A weather API, provided by [https://www.visualcrossing.com](https://www.visualcr
 ## Limitations
 For heatmap only cities 
 > ["Dammam","Jeddah","Al-Saih","Khaybar","Madinah","Mecca","Riyadh"].
+
 are selected due to cap in API calling. The cap is [1000 records/day](https://www.visualcrossing.com/weather-data-editions) in free addition. Therefore, only 7 cities were chosen for 3 months since 7*90(90 days in 3 months) is 630 and rest of records were left for developing line charts (since they are dynamic) and for testing. However, the heatmap is dynamic and can adapt for more data points/cordinates. 
